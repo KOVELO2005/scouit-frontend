@@ -50,7 +50,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@tanstack/react-query", "virtual:78b2f6c6810fa22a330aab52d83a5a7a62976271c4876045e7e06d76b7872c837a4e45ae7e9172e019c76044baa61de4637e9b226297db3c9d30489a4c09a57f#npm:4.26.1"],\
             ["@testing-library/jest-dom", "npm:5.16.5"],\
             ["@testing-library/react", "virtual:78b2f6c6810fa22a330aab52d83a5a7a62976271c4876045e7e06d76b7872c837a4e45ae7e9172e019c76044baa61de4637e9b226297db3c9d30489a4c09a57f#npm:14.0.0"],\
-            ["@types/axios", "npm:0.14.0"],\
+            ["@types/axios", "npm:0.14.4"],\
             ["@types/jest", "npm:29.5.0"],\
             ["@types/react", "npm:18.0.34"],\
             ["@types/react-dom", "npm:18.0.11"],\
@@ -7927,10 +7927,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/axios", [\
-        ["npm:0.14.0", {\
-          "packageLocation": "./.yarn/cache/@types-axios-npm-0.14.0-42f41917ea-12a230b940.zip/node_modules/@types/axios/",\
+        ["npm:0.14.4", {\
+          "packageLocation": "./.yarn/cache/@types-axios-npm-0.14.4-9e6e2aaf07-51defed1e7.zip/node_modules/@types/axios/",\
           "packageDependencies": [\
-            ["@types/axios", "npm:0.14.0"],\
+            ["@types/axios", "npm:0.14.4"],\
             ["axios", "npm:1.3.4"]\
           ],\
           "linkType": "HARD"\
@@ -24526,7 +24526,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@tanstack/react-query", "virtual:78b2f6c6810fa22a330aab52d83a5a7a62976271c4876045e7e06d76b7872c837a4e45ae7e9172e019c76044baa61de4637e9b226297db3c9d30489a4c09a57f#npm:4.26.1"],\
             ["@testing-library/jest-dom", "npm:5.16.5"],\
             ["@testing-library/react", "virtual:78b2f6c6810fa22a330aab52d83a5a7a62976271c4876045e7e06d76b7872c837a4e45ae7e9172e019c76044baa61de4637e9b226297db3c9d30489a4c09a57f#npm:14.0.0"],\
-            ["@types/axios", "npm:0.14.0"],\
+            ["@types/axios", "npm:0.14.4"],\
             ["@types/jest", "npm:29.5.0"],\
             ["@types/react", "npm:18.0.34"],\
             ["@types/react-dom", "npm:18.0.11"],\
