@@ -54,7 +54,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:29.5.0"],\
             ["@types/react", "npm:18.0.34"],\
             ["@types/react-dom", "npm:18.0.11"],\
-            ["@types/react-outside-click-handler", "npm:1.3.1"],\
+            ["@types/react-outside-click-handler", "npm:1.3.4"],\
             ["@types/react-query", "npm:1.2.9"],\
             ["@types/react-router-dom", "npm:5.3.3"],\
             ["@types/recoil", "npm:0.0.9"],\
@@ -8454,10 +8454,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/react-outside-click-handler", [\
-        ["npm:1.3.1", {\
-          "packageLocation": "./.yarn/cache/@types-react-outside-click-handler-npm-1.3.1-5937a0d834-514e5fe09a.zip/node_modules/@types/react-outside-click-handler/",\
+        ["npm:1.3.4", {\
+          "packageLocation": "./.yarn/cache/@types-react-outside-click-handler-npm-1.3.4-fe878648a4-b2875e1fb9.zip/node_modules/@types/react-outside-click-handler/",\
           "packageDependencies": [\
-            ["@types/react-outside-click-handler", "npm:1.3.1"],\
+            ["@types/react-outside-click-handler", "npm:1.3.4"],\
             ["@types/react", "npm:18.0.34"]\
           ],\
           "linkType": "HARD"\
@@ -24530,7 +24530,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:29.5.0"],\
             ["@types/react", "npm:18.0.34"],\
             ["@types/react-dom", "npm:18.0.11"],\
-            ["@types/react-outside-click-handler", "npm:1.3.1"],\
+            ["@types/react-outside-click-handler", "npm:1.3.4"],\
             ["@types/react-query", "npm:1.2.9"],\
             ["@types/react-router-dom", "npm:5.3.3"],\
             ["@types/recoil", "npm:0.0.9"],\
