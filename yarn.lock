@@ -2538,8 +2538,8 @@ __metadata:
   linkType: hard
 
 "@scouit/design-system@npm:^1.3.4":
-  version: 1.3.4
-  resolution: "@scouit/design-system@npm:1.3.4"
+  version: 1.3.6
+  resolution: "@scouit/design-system@npm:1.3.6"
   dependencies:
     core-js: ^3.30.0
     react-outside-click-handler: ^1.3.0
@@ -2548,7 +2548,7 @@ __metadata:
     react: ">= 18"
     react-dom: ">= 18"
     styled-components: ">= 5"
-  checksum: 7e6c727fda6ab323d69f3f14e27e7a7bafcdf5a09a52eb28c7cdb48e1fa1023df14e11baca73608bd6f433ad4d74c214ac0e4ce1319da977e1745cd0a85543c5
+  checksum: 78db06ba414e25a216f149f623f8d84eda0b6c8f620d469a8ed0d15d91a13c6683a091cc6462d16123072c76b80bcc08f5bc122a660f8b4108117e05046e8d51
   languageName: node
   linkType: hard
 
